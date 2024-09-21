@@ -124,6 +124,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.flake8
+.idea/
 env/
 venv/
 ENV/
